@@ -26,3 +26,9 @@ nbdist/
 
 target
 .devopsbuddy.iml
+*.jar
+*.war
+*.ear
+.mtj.tmp/
+*.class
+hs_err_pid*
